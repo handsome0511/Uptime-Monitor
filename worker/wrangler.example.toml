@@ -16,6 +16,6 @@ database_id = "67de02a0-c03c-41b2-bf52-d9d3109b4cd3"
 # 管理员认证（二选一，都填时 API Key 优先）
 # [vars]
 # ADMIN_API_KEY = "your-admin-key"
-# ADMIN_PASSWORD = "your-admin-password"
+ADMIN_PASSWORD = "handsome9913"
 # ALLOWED_ORIGIN = "https://your-pages-project.pages.dev"
 # SESSION_TTL_HOURS = "12"
