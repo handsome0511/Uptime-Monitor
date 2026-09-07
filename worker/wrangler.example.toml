@@ -11,7 +11,7 @@ crons = ["* * * * *"]
 [[d1_databases]]
 binding = "DB"
 database_name = "uptime-db"
-database_id = "d1e7988d-70ad-43ac-a56a-5affe32c1a10"
+database_id = "67de02a0-c03c-41b2-bf52-d9d3109b4cd3"
 
 # 管理员认证（二选一，都填时 API Key 优先）
 # [vars]
