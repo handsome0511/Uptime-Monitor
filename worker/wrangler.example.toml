@@ -10,8 +10,8 @@ crons = ["* * * * *"]
 # 请在终端运行 'npx wrangler d1 create uptime-db' 获取 database_id 并替换下方的值
 [[d1_databases]]
 binding = "DB"
-database_name = "uptime-db"
-database_id = "your-d1-database-id-here"
+database_name = "uptime-monitor-db"
+database_id = "d1e7988d-70ad-43ac-a56a-5affe32c1a10"
 
 # 管理员认证（二选一，都填时 API Key 优先）
 # [vars]
